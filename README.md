@@ -1,4 +1,4 @@
-# Full Stack Prep
+# Code Cake
 
 A delicious concoction of resources, tools, and interview questions for full
 stack software engineers who are looking to master modern web and app
