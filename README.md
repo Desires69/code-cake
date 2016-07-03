@@ -1,7 +1,8 @@
 # Full Stack Prep
 
-Resources and interview questions for full stack software engineers who are
-looking to master modern web and app development.
+A delicious concoction of resources, tools, and interview questions for full
+stack software engineers who are looking to master modern web and app
+development.
 
 **Note:** While the purpose of this repo is to be a comprehensive list, full
 stack developers are not expected to be human encyclopedias. They are, however,
@@ -59,7 +60,7 @@ on the team. And specialize in a few choice technologies.
 * Do your best to remain accessible.
   * [Web Accessibility Checklist](http://a11yproject.com/checklist.html)
 * Prefer SVG over icon fonts.
-  * [Web Accessibility Checklist](https://www.sitepoint.com/icon-fonts-vs-svg-debate)
+  * [Fonts vs. SVG](https://www.sitepoint.com/icon-fonts-vs-svg-debate)
 
 ##### Design
 
