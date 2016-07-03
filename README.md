@@ -24,7 +24,7 @@ on the team. And specialize in a few choice technologies.
 
   1. [Thanks](https://github.com/jabacchetta/full-stack-prep/graphs/contributors)
   1. [Contributing](https://github.com/jabacchetta/full-stack-prep/blob/master/CONTRIBUTING.md)
-  1. [License](https://github.com/jabacchetta/full-stack-prep/blob/master/LICENSE.md)
+  1. [License](https://github.com/jabacchetta/full-stack-prep/blob/master/LICENSE)
 
 #### HTML
 
