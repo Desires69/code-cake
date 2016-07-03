@@ -4,7 +4,7 @@ A delicious concoction of resources, tools, and interview questions for full
 stack software engineers who are looking to master modern web and app
 development.
 
-[Buy Me A Slice](paypal.me/jabacchetta) | [Hire Me](http://bacchetta.co/)
+[Buy Me A Slice](https://www.paypal.me/jabacchetta) | [Hire Me](http://bacchetta.co/)
 
 **Note:** While the purpose of this repo is to be a comprehensive list, full
 stack developers are not expected to be human encyclopedias. They are, however,
