@@ -4,13 +4,15 @@ A delicious concoction of resources, tools, and interview questions for full
 stack software engineers who are looking to master modern web and app
 development.
 
+[Buy Me A Slice](paypal.me/jabacchetta) | [Hire Me](http://bacchetta.co/)
+
 **Note:** While the purpose of this repo is to be a comprehensive list, full
 stack developers are not expected to be human encyclopedias. They are, however,
 expected to be curious, passionate, and driven.
 
 Get your hands dirty in the entire development process — from design to
 deployment — so that you're able to intelligently communicate with everyone
-on the team. And specialize in a few choice technologies.
+on the team. Along the way, specialize in a few choice technologies.
 
 ## Table of Contents
 
