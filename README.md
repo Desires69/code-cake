@@ -4,8 +4,6 @@ A delicious concoction of resources, tools, and interview questions for full
 stack software engineers who are looking to master modern web and app
 development.
 
-[Buy Me A Slice](https://www.paypal.me/jabacchetta) | [Hire Me](http://bacchetta.co/)
-
 **Note:** While the purpose of this repo is to be a comprehensive list, full
 stack developers are not expected to be human encyclopedias. They are, however,
 expected to be curious, passionate, and driven.
@@ -18,7 +16,8 @@ on the team. Along the way, specialize in a few choice technologies.
 
   * [HTML](#html)
   * [CSS](#css)
-  * [JS](#js)
+  * [JavaScript](#javascript)
+  * [Computer Science](#computer-science)
   * [Behavioral Questions](#)
   * [General](#general)
     * [Performance](#)
@@ -52,6 +51,23 @@ on the team. Along the way, specialize in a few choice technologies.
   * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * Take advantage of the libraries, frameworks, and plugins that already exist.
   * [JavaScripting](https://www.javascripting.com)
+* Understand the benefits of using universal/isomorphic JavaScript techniques.
+  * [Universal JavaScript](https://www.youtube.com/watch?v=0wvZ7gakqV4)
+* Benefit from tail call optimization.
+  * [ES6 Tail Call Optimization Explained](http://benignbemine.github.io/2015/07/19/es6-tail-calls)
+
+  #### Computer Science
+
+  * Be able to create and use popular data structures and algorithms.
+    * [Airbnb JavaScript Style Guide](https://www.amazon.com/Learning-JavaScript-Data-Structures-Algorithms-ebook/dp/B01C2XX8Y2)
+  * Be prepared for the interview process.
+    * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+  * Practice with code challenges and toy problems.
+    * [Code Wars](https://www.codewars.com) | [Top Coder](https://www.topcoder.com)
+  * Be able to explain Big O notation.
+    * [Explanation of Big O Notation](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity)
+  * Analyze time and space complexity until it becomes second nature.
+    * [Big O Cheat Sheet](http://bigocheatsheet.com)
 
 #### General
 
