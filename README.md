@@ -12,17 +12,18 @@ Get your hands dirty in the entire development process — from design to
 deployment — so that you're able to intelligently communicate with everyone
 on the team. Along the way, specialize in a few choice technologies.
 
-**Bonus** A startup section is included for the many software engineers who
+**Bonus:** A startup section is included for the many software engineers who
 are using their skills to build their own companies and/or work their way up
 to become CTO.
 
 ## Table of Contents
 
-  * [HTML](#html)
-  * [CSS](#css)
-  * [JavaScript](#javascript)
-  * [Computer Science](#computer-science)
+  * [Languages](#languages)
+    * [HTML](#html)
+    * [CSS](#css)
+    * [JavaScript](#javascript)
   * [General](#general)
+    * [Computer Science](#computer-science)
     * [Interviews](#interviews)
     * [Miscellaneous](#miscellaneous)
   * [Startup](#startup)
@@ -36,6 +37,8 @@ to become CTO.
   1. [Thanks](https://github.com/jabacchetta/full-stack-prep/graphs/contributors)
   1. [Contributing](https://github.com/jabacchetta/full-stack-prep/blob/master/CONTRIBUTING.md)
   1. [License](https://github.com/jabacchetta/full-stack-prep/blob/master/LICENSE)
+
+### Languages
 
 #### HTML
 
@@ -64,6 +67,8 @@ to become CTO.
 * Benefit from tail call optimization.
   * [ES6 Tail Call Optimization Explained](http://benignbemine.github.io/2015/07/19/es6-tail-calls)
 
+### General
+
 #### Computer Science
 
 * Be able to create and use popular data structures and algorithms.
@@ -75,7 +80,18 @@ to become CTO.
 * Analyze time and space complexity until it becomes second nature.
   * [Big O Cheat Sheet](http://bigocheatsheet.com)
 
-#### General
+#### Interviews
+
+* Be prepared for the interview process.
+  * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+* Programming questions.
+  * [Interview Cake](https://www.interviewcake.com)
+* Interview questions for front-end developers.
+  * [Front-End Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* General/behavioral interview questions.
+  * [50 Most Common Interview Questions](https://www.glassdoor.com/blog/common-interview-questions)
+
+#### Miscellaneous
 
 * WordPress powers more than 25% of the web. Become familiar with the API.
   * [WordPress REST API](http://v2.wp-api.org)
@@ -85,20 +101,6 @@ to become CTO.
   * [Web Accessibility Checklist](http://a11yproject.com/checklist.html)
 * Prefer SVG over icon fonts.
   * [Fonts vs. SVG](https://www.sitepoint.com/icon-fonts-vs-svg-debate)
-
-  ##### Interviews
-
-  * Be prepared for the interview process.
-    * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
-  * Programming questions.
-        * [Interview Cake](https://www.interviewcake.com)
-  * Interview questions for front-end developers.
-    * [Front-End Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-  * General/behavioral interview questions.
-      * [50 Most Common Interview Questions](https://www.glassdoor.com/blog/common-interview-questions)
-
-##### Miscellaneous
-
 * Don't become dependent on tools. But don't dismiss them either.
   * [JQuery vs. Vanilla JavaScript](https://toddmotto.com/is-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background/#comment-1450615536)
 * Learn to code, for beginners.
@@ -108,7 +110,7 @@ to become CTO.
 
 ### Startup
 
-##### Design
+#### Design
 
 * Get inspired.
   * [Dribbble](https://dribbble.com)
@@ -117,19 +119,19 @@ to become CTO.
 * Get a website/logo designed.
   * [99designs](https://99designs.com)
 
-##### Naming
+#### Naming
 
 * Find a name.
   * [Brand Bucket](https://www.brandbucket.com)
 * Create a name.
   * [Root Chart](http://www.prefixsuffix.com/rootchart.php)
 
-##### Marketing
+#### Marketing
 
 * SEO software.
   * [Moz](https://moz.com)
 
-##### Legal
+#### Legal
 
 * Basic documents and advice.
   * [LegalZoom](http://www.legalzoom.com)
