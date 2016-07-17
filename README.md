@@ -51,8 +51,12 @@ to become CTO.
 
 * Make use of best practices.
   * [CSS Guidelines](http://cssguidelin.es)
+* Practice positioning until it becomes second nature.
+  * [CSS Positioning In Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
 * Know of the available CSS selectors and properties.
   * [CSS Almanac](https://css-tricks.com/almanac)
+* Know what grid systems are and why they're useful.
+  * [Understanding CSS Grid Systems](https://www.sitepoint.com/understanding-css-grid-systems)
 * When (and When Not) to use CSS Frameworks.
   * [CSS Frameworks](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework)
 * Get a head start on PostCSS.
@@ -132,6 +136,8 @@ to become CTO.
 
 * SEO software.
   * [Moz](https://moz.com)
+* Learn how to create screencasts.
+  * [Screencasts That Don’t Suck](https://shawnhesketh.com/create-screencasts)
 
 #### Legal
 
