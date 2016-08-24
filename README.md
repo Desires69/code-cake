@@ -61,6 +61,8 @@ to become CTO.
   * [CSS Frameworks](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework)
 * Get a head start on PostCSS.
   * [PostCSS Deep Dive](http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535)
+* Avoid React inline styles. Prefer CSS modules or BEM.
+  * [React Inline Styles Are Fundamentally Flawed](https://byjoeybaker.com/react-inline-styles)
 
 #### JavaScript
 
@@ -72,6 +74,9 @@ to become CTO.
   * [Universal JavaScript](https://www.youtube.com/watch?v=0wvZ7gakqV4)
 * Benefit from tail call optimization.
   * [ES6 Tail Call Optimization Explained](http://benignbemine.github.io/2015/07/19/es6-tail-calls)
+* Test your mastery of JavaScript with brain teasers and 'gotchas'.
+  * [Tricky Questions](http://thatjsdude.com/interview/js2.html) | [JavaScript
+   Quiz](http://perfectionkills.com/javascript-quiz/) | [Know JavaScript?](http://dmitry.baranovskiy.com/post/91403200)
 
 ### General
 
@@ -101,6 +106,8 @@ to become CTO.
 
 * WordPress powers more than 25% of the web. Become familiar with the API.
   * [WordPress REST API](http://v2.wp-api.org)
+* Browse through available APIs.
+  * [API Directory](http://www.programmableweb.com/category/all/apis)
 * Is your code browser compatible?
   * [Can I Use](http://caniuse.com)
 * Do your best to remain accessible.
@@ -113,7 +120,11 @@ to become CTO.
   * [Code School](https://www.codeschool.com) | [Treehouse](https://teamtreehouse.com)
 * Become a software engineer, for intermediate developers.
   * [Hack Reactor](http://www.hackreactor.com) | [FullStack Academy](http://www.fullstackacademy.com)
-
+* Continued learning.
+  * [Frontend Masters](https://frontendmasters.com/) | [EggHead](https://egghead.io/) | [Pluralsight](https://www.pluralsight.com/) | [Udemy](https://www.udemy.com/)
+* Master front-end development.
+  * [Front-End Handbook](http://www.frontendhandbook.com/)
+  
 ### Startup
 
 #### Design
